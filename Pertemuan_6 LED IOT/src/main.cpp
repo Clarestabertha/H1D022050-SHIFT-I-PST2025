@@ -19,7 +19,6 @@ void setup(){
   pinMode(LED1, OUTPUT);
   pinMode(LED2, OUTPUT);
   pinMode(LED3, OUTPUT);
-
 //Connect to wifi
   Serial.println();
   Serial.print("Configuring access point...");
